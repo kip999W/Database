@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1752663072 source:c:\project\database\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	"NavigatorMenu.h"
+	"Encryptor.h"
+
+1752511215 source:c:\project\database\src\navigatormenu.cpp
+	"NavigatorMenu.h"
+
+1752511202 c:\project\database\include\navigatormenu.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<vector>
+
+1752579753 source:c:\project\database\src\encryptor.cpp
+	"Encryptor.h"
+
+1752579753 c:\project\database\include\encryptor.h
+	<iostream>
+	<string>
+
